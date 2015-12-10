@@ -1,0 +1,7 @@
+Example:
+Key contributors to the development of the VDEM-CAV 1.0 software and documentation include: Jiaqi Ma (Leidos), and Joyoung Lee and Gary Zong (New Jersey Institute of Technology).
+
+The developers also wish to acknowledge several contributors to this study:
+
+Taylor Lochrane, Joe Bared  (Federal Highway Administration) and Dan Dailey (University of Washington), for his support and comments.
+

@@ -1,0 +1,26 @@
+VDEM-CAV, Oct. 6 2015, Version 1.0
+
+
+
+System Requirements
+
+
+The VDEM-CAV 1.0 can run on most standard Window based computers with Pentium core processers, with at least two gigabits of RAM and at least 100 MB of drive space. Performance of the software will be based on the computing power and available RAM in the system.  Larger datasets can require much larger space requirements depending on the amount of data being read into the software.
+
+
+
+Third party platforms: 	
+
+
+* PTV VISSIM 6.19 (32 bit preferred)
+
+
+* Microsoft Visual Studio 2013
+
+
+
+Installation guide
+
+
+Please see the user manual for detailed instruction.
+
